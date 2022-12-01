@@ -1,3 +1,6 @@
 papas
 batatas
 lechugas
+zapallo
+remolacha
+rucula
